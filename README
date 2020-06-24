@@ -1,8 +1,7 @@
-Private Chat Application using Flask.
-
-******************************************
-	@Author: Ezaz Hossain Sardar
-******************************************
+<p align="center">
+	<h1 align="center">Private Chat Application using Flask</h1>
+	<h2 align="center">Author: Ezaz Hossain Sardar</h2>
+</p>
 
 About this application:
 	This is a simple chat application that built using 'SocketIO' and 'Flask'. In this chat application one can
