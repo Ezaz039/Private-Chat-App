@@ -17,6 +17,6 @@ message to anyone else.
 ![GitHub Logo](layout.png)
 ![GitHub Logo](chat.png)
 
-## Uses:
+## Usage:
 This chat application is currently deployed on Heroku. This web app can be accessed through 
 https://privchatapp.herokuapp.com/
